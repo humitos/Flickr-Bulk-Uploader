@@ -49,12 +49,7 @@ Example::
     ......
     
 Whit this directory structure, "flickr-bulk-uploader.py" will create 4
-PhotoSets with the names: "Sunny day", "Kayak", "My camera" and "My
-brother's camera".
-
-Yes, the two last PhotoSets' names could be considered as a BUG. If you
-have any idea on how to solve it, please open a new Issue.
-
+PhotoSets with the names: "Sunny day", "Kayak", "My birthday".
 
 Don't duplicate photos, please!
 -------------------------------
